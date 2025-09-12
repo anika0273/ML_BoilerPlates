@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+catboost_info/
 __pycache__
 *.pyc
 newvenv/
