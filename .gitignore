@@ -4,3 +4,4 @@ __pycache__
 newvenv/
 venv/
 env/
+*.pkl
