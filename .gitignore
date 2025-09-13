@@ -3,6 +3,7 @@ catboost_info/
 __pycache__
 *.pyc
 newvenv/
+kmeansvenv/
 venv/
 env/
 *.pkl
